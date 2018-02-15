@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Bsoul Adam IntGP1 Assignment.Plugins", "Al-Bsoul Adam IntGP1 Assignment.Plugins.csproj", "{547CD576-3FCF-7B11-6C30-D71EB242C418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Bsoul Adam IntGP1 Assignment", "Al-Bsoul Adam IntGP1 Assignment.csproj", "{D2D38248-986A-2E2A-2A77-AC0DDEA1EEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Bsoul Adam IntGP1 Assignment.Editor.Plugins", "Al-Bsoul Adam IntGP1 Assignment.Editor.Plugins.csproj", "{F3275389-2819-5AD9-EE9B-093C0A7953F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547CD576-3FCF-7B11-6C30-D71EB242C418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547CD576-3FCF-7B11-6C30-D71EB242C418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547CD576-3FCF-7B11-6C30-D71EB242C418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547CD576-3FCF-7B11-6C30-D71EB242C418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D38248-986A-2E2A-2A77-AC0DDEA1EEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D38248-986A-2E2A-2A77-AC0DDEA1EEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D38248-986A-2E2A-2A77-AC0DDEA1EEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D38248-986A-2E2A-2A77-AC0DDEA1EEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3275389-2819-5AD9-EE9B-093C0A7953F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3275389-2819-5AD9-EE9B-093C0A7953F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3275389-2819-5AD9-EE9B-093C0A7953F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3275389-2819-5AD9-EE9B-093C0A7953F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
